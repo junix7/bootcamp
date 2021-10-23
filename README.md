@@ -15,7 +15,7 @@ Proyecto sobre el desarrollo de un sitio web hecho en bootstrap para una demo co
 2.- Abre ```index.html``` en tu navegador favorito.
 
 ## Demo 💿️
-![label image](https://github.com/junix7/bootcamp/blob/master/img/preview.png)
+![label image](https://raw.githubusercontent.com/junix7/bootcamp/main/img/preview.png)
 
 Puedes ver un live demo en la siguiente dirección [Demo](https://junix7.github.io/bootcamp/).
 
